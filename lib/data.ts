@@ -3,8 +3,8 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import adminPng from "../public/admin.png";
-import myMedicalOwl from "../public/myMedicalOwl.png";
-import mySocialNetwork from "../public/MySocialNetwork.png";
+import myMedicalOwl from "../public/my_medical_owl.png";
+import mySocialNetwork from "../public/my_social_network.png";
 
 export const links = [
   {
